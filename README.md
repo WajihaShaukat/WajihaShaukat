@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WajihaShaukat
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Big Data tools
-- ⚡ Fun fact: Two things attract me: data and writing (I even wrote a book)!
+- ⚡ Fun fact: Two things attract me: Data and Writing (I even wrote a book)!
 
 <!---
 WajihaShaukat/WajihaShaukat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
