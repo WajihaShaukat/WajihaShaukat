@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WajihaShaukat
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data Sciences
 - 🌱 I’m currently learning Big Data tools
 - ⚡ Fun fact: Two things attract me: data and writing (I even wrote a book)!
 
